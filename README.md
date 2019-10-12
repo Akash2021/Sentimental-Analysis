@@ -1,2 +1,2 @@
 # Sentimental-Analysis
-Using AWS Sagemaker, AWS Lambda, AWS API to create a webpage that predicts the sentiment of a given review
+In this project we will be using pytorch and sklearn to create a model that when given a movie review classify if it is postive or negative. We will be using AWS Sagemaker to train our model we will run this notebook in AWS sagemaker after our model is trained. We will leverage AWS Lambda and AWS API to create a webpage. All you need is to do change the Api aceess key in respecative place with your keys.
